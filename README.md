@@ -10,4 +10,4 @@ Also, I modified the js file so the user does not put empty values in the input 
 
 
 
-> **Note:**  **Please mention** the resource if you have no file to synchronize.
+> **Note:**  **Please mention** the resource if you are not the author.
