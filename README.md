@@ -4,4 +4,4 @@
 - Also, I modified the js file so the user does not put empty values in the input field.
 
 
-<img width="792" alt="Screenshot 2023-12-14 at 5 01 37 PM" src="https://github.com/savannah-yahsuanlin/Todo-Mongos/assets/12411476/88ef2088-d0a9-446a-bbaa-f586ee1f1b37">
+<img width="600" alt="Screenshot 2023-12-14 at 5 01 37 PM" src="https://github.com/savannah-yahsuanlin/Todo-Mongos/assets/12411476/88ef2088-d0a9-446a-bbaa-f586ee1f1b37">
