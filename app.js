@@ -3,7 +3,7 @@ const app = express();
 const client = require('./db/connect');
 const tasks = require('./routes/tasks');
 const notFound = require('./middleware/notFound');
-const errorHandlerMiddleware = require('./middleware/errorHandler');
+const errorHandler= require('./middleware/errorHandler');
 
 app.use(express.static('./public'));
 app.use(express.json());
@@ -11,7 +11,7 @@ app.use(express.json());
 app.use('/api/v1/tasks', tasks);
 
 app.use(notFound);
-app.use(errorHandlerMiddleware);
+app.use(errorHandler);
 const port = 4000;
 
 const init = async() => {
